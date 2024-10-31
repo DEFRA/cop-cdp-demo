@@ -47,7 +47,7 @@ describe('#context', () => {
             url: '/about'
           }
         ],
-        serviceName: 'CDP Node.js Frontend Template',
+        serviceName: 'cop-cdp-demo',
         serviceUrl: '/'
       })
     })
@@ -136,7 +136,7 @@ describe('#context cache', () => {
             url: '/about'
           }
         ],
-        serviceName: 'CDP Node.js Frontend Template',
+        serviceName: 'cop-cdp-demo',
         serviceUrl: '/'
       })
     })
